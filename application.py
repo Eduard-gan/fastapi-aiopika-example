@@ -1,6 +1,6 @@
 import uvicorn
-from fastapi import FastAPI, responses
 from aio_pika import connect_robust, Message
+from fastapi import FastAPI, responses
 
 
 RABBIT_USER = ""
