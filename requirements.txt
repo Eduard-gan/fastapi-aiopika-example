@@ -1,0 +1,13 @@
+aio-pika==6.7.1
+aiormq==3.3.1
+click==7.1.2
+fastapi==0.63.0
+h11==0.12.0
+idna==3.1
+multidict==5.1.0
+pamqp==2.3.0
+pydantic==1.7.3
+starlette==0.13.6
+typing-extensions==3.7.4.3
+uvicorn==0.13.3
+yarl==1.6.3
